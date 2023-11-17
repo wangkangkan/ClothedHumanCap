@@ -1,0 +1,1 @@
+python run.py --type visualize --cfg_file configs/magdalena2000/magdalena2000.yaml exp_name xyzc_313
