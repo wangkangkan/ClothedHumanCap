@@ -2,13 +2,13 @@
 
 ### [Project Page](https://wangkangkan.github.io/project_pages/ClothedHumanCap/index.html) | [Video](https://wangkangkan.github.io/project_pages/ClothedHumanCap/video/introduction.mp4) | [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Clothed_Human_Performance_Capture_With_a_Double-Layer_Neural_Radiance_Fields_CVPR_2023_paper.pdf)
 
-> Kangkan Wang, Guofeng Zhang, Suxu Cong, Jian Yang;
+> Kangkan Wang*, Guofeng Zhang, Suxu Cong, Jian Yang;
 
 ![pipeline](./resource/pipeline.png)
 
 Official implementation of Clothed Human Performance Capture with a Double-layer Neural Radiance Fields.
 
-Questions and discussions are welcomed! Feel free to contact Kangkan Wang via [wangkangkan@njust.edu.cn](mailto:wangkangkan@njust.edu.cn)
+Questions and discussions are welcomed! Feel freely to contact Kangkan Wang via [wangkangkan@njust.edu.cn](mailto:wangkangkan@njust.edu.cn).
 
 ## Installation
 
@@ -80,4 +80,3 @@ month={June},
 year={2023},
 pages={21098-21107}}
 ```
-
